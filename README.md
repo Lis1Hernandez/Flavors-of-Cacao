@@ -24,8 +24,9 @@ This project is centered around **Chocolate Bar Ratings**. The dataset includes 
 - Visualize the data to gain insights and present findings.
 
 ### Data
-Kaggle - Brady Brelinski, Founding Member of the Manhattan Chocolate Society - flavorsofcacao.com 
-https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings?resource=download
+**Data Source**: Kaggle 
+Brady Brelinski, Founding Member of the Manhattan Chocolate Society - flavorsofcacao.com 
+**URL**: https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings?resource=download
 
 ### Tools and Libraries used
 - Python
@@ -35,9 +36,16 @@ https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings?resource=download
   - Pylab: Data Visualizations
   - Scipy: Data Equations
   - Numpy: Mathematical Equations
+- Excel: Data Cleaning
 
 ### Tableau Storyboard
 This Storyboard doesn't contain every step I took as part of the analysis - only those relevant to the final results
 (Link here when done)
+
+### Note 
+In the 6.6 task, a time-series Analysis was done using separate data
+**Data Source**: Federal Reserve Economic Data (FRED)
+**Dataset**: Monthly price of cocoa in U.S. dollars
+**URL**: https://fred.stlouisfed.org/series/PCOCOUSDM
   
 
