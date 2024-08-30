@@ -13,7 +13,7 @@ This project is centered around **Chocolate Bar Ratings**. The dataset includes 
 - **Broad Bean Origin**
 
 ### Key Questions
-- Does the location where cocoa beans are grown influence the quality and rating of chocolate bars?
+- Does the location where cocoa beans are grown influence the rating of chocolate bars?
 - What specific companies produce the highest-rated bars?
 - Does a particular cocoa percentage result in higher-rated chocolate bars?
 
