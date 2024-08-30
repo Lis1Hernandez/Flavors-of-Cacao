@@ -24,7 +24,6 @@ This project is centered around **Chocolate Bar Ratings**. The dataset includes 
 
 ### Data
 - **Data Source**: Kaggle 
-- Brady Brelinski, Founding Member of the Manhattan Chocolate Society - flavorsofcacao.com 
 - **URL**: https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings?resource=download
 
 ### Tools and Libraries used
