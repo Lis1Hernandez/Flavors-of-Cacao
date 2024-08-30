@@ -40,7 +40,7 @@ This project is centered around **Chocolate Bar Ratings**. The dataset includes 
 
 ### Tableau Storyboard
 This Storyboard doesn't contain every step I took as part of the analysis - only those relevant to the final results
-(Link here when done)
+**URL**: https://public.tableau.com/app/profile/lisely.h/viz/6_7-ChocolateBarRatings/Page6-WordCloudAnalysis#1
 
 ### Note 
 In the 6.6 task, a time-series Analysis was done using separate data
