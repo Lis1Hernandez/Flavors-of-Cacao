@@ -18,7 +18,6 @@ This project is centered around **Chocolate Bar Ratings**. The dataset includes 
 - Does a particular cocoa percentage result in higher-rated chocolate bars?
 
 ### Analysis Goals
-- Identify trends and patterns in chocolate bar ratings.
 - Explore the impact of cocoa percentage on ratings.
 - Analyze the influence of the country of origin on chocolate quality.
 - Visualize the data to gain insights and present findings.
